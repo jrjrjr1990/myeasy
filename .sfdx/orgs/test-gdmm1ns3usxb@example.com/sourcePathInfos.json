@@ -32,14 +32,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110392,
             "changeTime": 1543305110392,
-            "contentHash": "3e93a74ffc0b752ab0d561dab5a146e096f6482d"
+            "contentHash": "3e93a74ffc0b752ab0d561dab5a146e096f6482d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -50,9 +50,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543305110123,
-            "changeTime": 1543305110123,
-            "contentHash": "2b494685d368826194fc0a7406d4c93152669a3f"
+            "modifiedTime": 1543307965914,
+            "changeTime": 1543307965914,
+            "contentHash": "6803dd85725aa0166fc24864e0faf38d397bd725"
         }
     ],
     [
@@ -671,53 +671,53 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 25436,
             "modifiedTime": 1543305110305,
             "changeTime": 1543305110305,
-            "contentHash": "4e25fd17846757c436850c7b9e8c88ad43dceb32"
+            "contentHash": "4e25fd17846757c436850c7b9e8c88ad43dceb32",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10920,
             "modifiedTime": 1543305110346,
             "changeTime": 1543305110346,
-            "contentHash": "2f990380716b218b1368af8d992e1a3fd6cde121"
+            "contentHash": "2f990380716b218b1368af8d992e1a3fd6cde121",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11256,
             "modifiedTime": 1543305110365,
             "changeTime": 1543305110365,
-            "contentHash": "7b7d36d7d75166756c3760dc6e9af6bfbb15aac8"
+            "contentHash": "7b7d36d7d75166756c3760dc6e9af6bfbb15aac8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10916,
             "modifiedTime": 1543305110377,
             "changeTime": 1543305110377,
-            "contentHash": "92be88c2f639d96c0a80e94d7d7ccd973e1b5d15"
+            "contentHash": "92be88c2f639d96c0a80e94d7d7ccd973e1b5d15",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -905,14 +905,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110145,
             "changeTime": 1543305110145,
-            "contentHash": "42c13b680747a1fdb479a24a5bbaa7c0a0b5b822"
+            "contentHash": "42c13b680747a1fdb479a24a5bbaa7c0a0b5b822",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1243,14 +1243,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1590,
             "modifiedTime": 1543305109895,
             "changeTime": 1543305109895,
-            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354"
+            "contentHash": "cfe84e2252f1a87772dbe02d0aedb16803021354",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1295,14 +1295,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 4362,
             "modifiedTime": 1543305109937,
             "changeTime": 1543305109937,
-            "contentHash": "38f058d2c2f63ea1d5e26b744e730ceeb300578c"
+            "contentHash": "38f058d2c2f63ea1d5e26b744e730ceeb300578c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1334,14 +1334,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1820,
             "modifiedTime": 1543305109961,
             "changeTime": 1543305109961,
-            "contentHash": "3289145bd078bac4135016bc97212fcfea33c47f"
+            "contentHash": "3289145bd078bac4135016bc97212fcfea33c47f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1464,27 +1464,27 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1012,
             "modifiedTime": 1543305110058,
             "changeTime": 1543305110058,
-            "contentHash": "d8b7372bcdb1bd48077dec3870857bc3eef74bd2"
+            "contentHash": "d8b7372bcdb1bd48077dec3870857bc3eef74bd2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper\\reservationHelperController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1311,
             "modifiedTime": 1543305110065,
             "changeTime": 1543305110065,
-            "contentHash": "4db1b3fef761abf6de7efe02d63398e8c6368e2a"
+            "contentHash": "4db1b3fef761abf6de7efe02d63398e8c6368e2a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1620,14 +1620,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1610,
             "modifiedTime": 1543305110158,
             "changeTime": 1543305110158,
-            "contentHash": "680d7ee6ae8a47553fec6674b9c8b96dbbbbdb8e"
+            "contentHash": "680d7ee6ae8a47553fec6674b9c8b96dbbbbdb8e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1711,14 +1711,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerTile",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerTile",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305109895,
             "changeTime": 1543305109895,
-            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9"
+            "contentHash": "c4bd58ae7663c68dc57648f6a93adc1c7202cef9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1727,7 +1727,7 @@
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerDetails",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1543300575607,
+            "modifiedTime": 1543305109960,
             "changeTime": 1543300575607,
             "contentHash": "90c25825552f67096b05b6a3bb72ad590d311435",
             "isMetadataFile": false,
@@ -1766,7 +1766,7 @@
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationHelper",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1543300575680,
+            "modifiedTime": 1543305110064,
             "changeTime": 1543300575680,
             "contentHash": "e14a5c0dee87372f52d8a7288d8ab15b5b9b5912",
             "isMetadataFile": false,
@@ -1802,14 +1802,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110139,
             "changeTime": 1543305110139,
-            "contentHash": "a35571ed3ac90e65db06e81bed52526e1b0c5acf"
+            "contentHash": "a35571ed3ac90e65db06e81bed52526e1b0c5acf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1828,14 +1828,14 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\flows",
         {
+            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\flows",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1543300575775,
-            "changeTime": 1543300575775,
-            "contentHash": "c53bb997fcb74b4f8eb3633e5c25968e2429ba09",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1543307965922,
+            "changeTime": 1543307965922,
+            "contentHash": "8851a4a3d2777b8fb475971656dc343b1a3a9bbc"
         }
     ],
     [
@@ -1854,430 +1854,430 @@
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\customerTile\\customerTile.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 37,
             "modifiedTime": 1543305109869,
             "changeTime": 1543305109869,
-            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305109985,
             "changeTime": 1543305109985,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\muteTiles\\muteTiles.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 181,
             "modifiedTime": 1543305110001,
             "changeTime": 1543305110001,
-            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110007,
             "changeTime": 1543305110007,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 37,
             "modifiedTime": 1543305110010,
             "changeTime": 1543305110010,
-            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 860,
             "modifiedTime": 1543305110014,
             "changeTime": 1543305110014,
-            "contentHash": "39ea8763b9996688d22351411f5aa62f4a6bea68"
+            "contentHash": "39ea8763b9996688d22351411f5aa62f4a6bea68",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTile.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3737,
             "modifiedTime": 1543305110018,
             "changeTime": 1543305110018,
-            "contentHash": "1c15f1c55965ac784ceb771cf7f5de931702e512"
+            "contentHash": "1c15f1c55965ac784ceb771cf7f5de931702e512",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile\\reservationTileController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 938,
             "modifiedTime": 1543305110021,
             "changeTime": 1543305110021,
-            "contentHash": "dd93b98cfdf5419c9f485aae1092f9010c3820e5"
+            "contentHash": "dd93b98cfdf5419c9f485aae1092f9010c3820e5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110027,
             "changeTime": 1543305110027,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1307,
             "modifiedTime": 1543305110031,
             "changeTime": 1543305110031,
-            "contentHash": "cf57fd7c513e0a8773e4328fa713533b5a7f1208"
+            "contentHash": "cf57fd7c513e0a8773e4328fa713533b5a7f1208",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 804,
             "modifiedTime": 1543305110035,
             "changeTime": 1543305110035,
-            "contentHash": "ed1639c5a954290be1588e245a5007a21069e1d5"
+            "contentHash": "ed1639c5a954290be1588e245a5007a21069e1d5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesignerController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1190,
             "modifiedTime": 1543305110039,
             "changeTime": 1543305110039,
-            "contentHash": "c9a7c2c2fbe71c0d6b7762352a8134d0504363db"
+            "contentHash": "c9a7c2c2fbe71c0d6b7762352a8134d0504363db",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner\\spaceDesigner.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 966,
             "modifiedTime": 1543305110050,
             "changeTime": 1543305110050,
-            "contentHash": "fd2a3860304a407719a0f25662f3a5e5c25bd6a0"
+            "contentHash": "fd2a3860304a407719a0f25662f3a5e5c25bd6a0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110069,
             "changeTime": 1543305110069,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 741,
             "modifiedTime": 1543305110071,
             "changeTime": 1543305110071,
-            "contentHash": "9275f15414db18db9e75a1a89185c9cb73dd3683"
+            "contentHash": "9275f15414db18db9e75a1a89185c9cb73dd3683",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1485,
             "modifiedTime": 1543305110090,
             "changeTime": 1543305110090,
-            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619"
+            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList\\reservationListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 318,
             "modifiedTime": 1543305110093,
             "changeTime": 1543305110093,
-            "contentHash": "5bcb3bc37a4d2826757edb16bd7ccdaa9bfa6a5b"
+            "contentHash": "5bcb3bc37a4d2826757edb16bd7ccdaa9bfa6a5b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillSelect\\pillSelect.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillSelect\\pillSelect.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110098,
             "changeTime": 1543305110098,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillSelect\\pillSelect.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillSelect\\pillSelect.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 121,
             "modifiedTime": 1543305110101,
             "changeTime": 1543305110101,
-            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110107,
             "changeTime": 1543305110107,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 560,
             "modifiedTime": 1543305110110,
             "changeTime": 1543305110110,
-            "contentHash": "4c1f814a0225267eea8768c65136e7591c53ca9a"
+            "contentHash": "4c1f814a0225267eea8768c65136e7591c53ca9a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillDeselect\\pillDeselect.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillDeselect\\pillDeselect.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110117,
             "changeTime": 1543305110117,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillDeselect\\pillDeselect.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillDeselect\\pillDeselect.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 121,
             "modifiedTime": 1543305110120,
             "changeTime": 1543305110120,
-            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectObject\\selectObject.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectObject\\selectObject.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1543305110129,
             "changeTime": 1543305110129,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectObject\\selectObject.evt",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectObject\\selectObject.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 177,
             "modifiedTime": 1543305110133,
             "changeTime": 1543305110133,
-            "contentHash": "e3e6333dfbb5511848c476b369fc54ff8cb08ebb"
+            "contentHash": "e3e6333dfbb5511848c476b369fc54ff8cb08ebb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 714,
             "modifiedTime": 1543305110139,
             "changeTime": 1543305110139,
-            "contentHash": "35b32814a0311592e5e07b4576415a3622d8efff"
+            "contentHash": "35b32814a0311592e5e07b4576415a3622d8efff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\tabs\\Spaces_Designer.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\tabs\\Spaces_Designer.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 328,
             "modifiedTime": 1543305110145,
             "changeTime": 1543305110145,
-            "contentHash": "865849041596bc4438cfc0b33cf5585e44542909"
+            "contentHash": "865849041596bc4438cfc0b33cf5585e44542909",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\settings\\Security.settings-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2632,
             "modifiedTime": 1543305110393,
             "changeTime": 1543305110393,
-            "contentHash": "a0cadba26057efa4350b58d02a7bcf1d669f020a"
+            "contentHash": "a0cadba26057efa4350b58d02a7bcf1d669f020a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\muteTiles",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\muteTiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110000,
             "changeTime": 1543305110000,
-            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e"
+            "contentHash": "0a75aa075d8e180e02b29af9db3e9075b9db772e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationTile",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110020,
             "changeTime": 1543305110020,
-            "contentHash": "a1e7c21d7ebc36e9b53b127840034e5e2ea4ab19"
+            "contentHash": "a1e7c21d7ebc36e9b53b127840034e5e2ea4ab19",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\spaceDesigner",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110048,
             "changeTime": 1543305110048,
-            "contentHash": "4eccfc141d5e6e54ff30cd0233d4c48a2783d79a"
+            "contentHash": "4eccfc141d5e6e54ff30cd0233d4c48a2783d79a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\reservationList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110093,
             "changeTime": 1543305110093,
-            "contentHash": "877d3872e603d651e9edb824870516646dc9f04b"
+            "contentHash": "877d3872e603d651e9edb824870516646dc9f04b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillSelect",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillSelect",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110101,
             "changeTime": 1543305110101,
-            "contentHash": "dcce781f0f987ab0b34d48118c37fb9c242164a8"
+            "contentHash": "dcce781f0f987ab0b34d48118c37fb9c242164a8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2288,48 +2288,399 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1543305110110,
-            "changeTime": 1543305110110,
-            "contentHash": "d7200d23c9195dc5f7a7a78e4c132d285db09fbf"
+            "modifiedTime": 1543307965913,
+            "changeTime": 1543307965913,
+            "contentHash": "87db8f9247448c45b0355b8d6278477df85d9738"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillDeselect",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillDeselect",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110119,
             "changeTime": 1543305110119,
-            "contentHash": "0910499d77556b086510e7cfa8f0530e033a51a9"
+            "contentHash": "0910499d77556b086510e7cfa8f0530e033a51a9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectObject",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectObject",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110133,
             "changeTime": 1543305110133,
-            "contentHash": "c136c4d4c9606b1ec48ec2ad46c6a209d5981528"
+            "contentHash": "c136c4d4c9606b1ec48ec2ad46c6a209d5981528",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\myeasy\\force-app\\main\\default\\settings",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\settings",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1543305110393,
             "changeTime": 1543305110393,
-            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327"
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307965876,
+            "changeTime": 1543307965876,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 362,
+            "modifiedTime": 1543307965879,
+            "changeTime": 1543307965879,
+            "contentHash": "5404354314c8c9c6b3fb18d499c2e58402098c95"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 647,
+            "modifiedTime": 1543307965880,
+            "changeTime": 1543307965880,
+            "contentHash": "c1d6d8c6714824ae19edcbda36951768abef6b91"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile\\pillTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 709,
+            "modifiedTime": 1543307965883,
+            "changeTime": 1543307965883,
+            "contentHash": "16dc390c4b4b1d9eb3f7c4b0672029d016621668"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307965886,
+            "changeTime": 1543307965886,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3601,
+            "modifiedTime": 1543307965888,
+            "changeTime": 1543307965888,
+            "contentHash": "e24a9be1d4f5ec33134ce049a1b9cc57d8965c37"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGallery.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1543307965889,
+            "changeTime": 1543307965889,
+            "contentHash": "7080ad772626e9e7e00e51623554605f2d62a95f"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1167,
+            "modifiedTime": 1543307965891,
+            "changeTime": 1543307965891,
+            "contentHash": "6c54aebbb096fe7a83f6171c61d21ec0f6e4326f"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery\\smartGalleryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1362,
+            "modifiedTime": 1543307965893,
+            "changeTime": 1543307965893,
+            "contentHash": "447866e499ee002b8fc526e999fc649712f2b838"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectChange\\selectChange.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectChange\\selectChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307965895,
+            "changeTime": 1543307965895,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectChange\\selectChange.evt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectChange\\selectChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 230,
+            "modifiedTime": 1543307965896,
+            "changeTime": 1543307965896,
+            "contentHash": "314091fa49c8c4f8c1a231416f0aa266c829a573"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307965899,
+            "changeTime": 1543307965899,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1543307965900,
+            "changeTime": 1543307965900,
+            "contentHash": "b439b7d13cd88c662ce25d2dad3a926d9fdbeb1a"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 634,
+            "modifiedTime": 1543307965901,
+            "changeTime": 1543307965901,
+            "contentHash": "c2517c2523642d377a077f1ade07648567369292"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1263,
+            "modifiedTime": 1543307965903,
+            "changeTime": 1543307965903,
+            "contentHash": "409861056a093e652dc359f0a5e4b7eb750253cb"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile\\galleryTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1581,
+            "modifiedTime": 1543307965905,
+            "changeTime": 1543307965905,
+            "contentHash": "427525b77e43549342fd9d61c3ef83c4ea605bb8"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pill.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1543307965909,
+            "changeTime": 1543307965909,
+            "contentHash": "ea13cdb58cf2e8e30fb40c4dd768b2bf8a84f5df"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pillHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pillHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 643,
+            "modifiedTime": 1543307965910,
+            "changeTime": 1543307965910,
+            "contentHash": "1ac21d303791e4108b26d531eea4c607fb66f215"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pillController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pill\\pillController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 355,
+            "modifiedTime": 1543307965913,
+            "changeTime": 1543307965913,
+            "contentHash": "afcef34e80d43c4530ec7f3d9c31560e12786f1f"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1543307965915,
+            "changeTime": 1543307965915,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\defaultTokens\\defaultTokens.tokens",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1543307965916,
+            "changeTime": 1543307965916,
+            "contentHash": "530fc21a2bf34902943101f610777e13c9368c3c"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\flows\\spaceDesigner.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\flows\\spaceDesigner.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5099,
+            "modifiedTime": 1543307965923,
+            "changeTime": 1543307965923,
+            "contentHash": "844fa063d4e17a30f19e43923ac8752e40e92cb6"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\pillTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307965882,
+            "changeTime": 1543307965882,
+            "contentHash": "b333b8f65c34595128f9900d2f368c6a0fd180c5"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\smartGallery",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307965892,
+            "changeTime": 1543307965892,
+            "contentHash": "81d748c5dca289c52a3a36346dbdeb64775d12ee"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectChange",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\selectChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307965896,
+            "changeTime": 1543307965896,
+            "contentHash": "b64649d5e6e5b7a7ff913e52f657425fe1a2677c"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\galleryTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307965904,
+            "changeTime": 1543307965904,
+            "contentHash": "b4bd49ed896c0c6b2335fafd81e63235bea271b6"
+        }
+    ],
+    [
+        "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\defaultTokens",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\myeasy\\force-app\\main\\default\\aura\\defaultTokens",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1543307965916,
+            "changeTime": 1543307965916,
+            "contentHash": "9c13df0e131455c056bf7320226e1f7b5dfc93ce"
         }
     ]
 ]
