@@ -37,7 +37,7 @@
     },
     
     handleStatusChange : function(component, event, helper)
-    {
+    {	
         if (event.getParam("status") === "FINISHED")
         {
             helper.refreshTab(component);
